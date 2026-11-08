@@ -67,44 +67,6 @@ I'm a B.Tech Computer Science student specializing in **Artificial Intelligence 
 
 ---
 
-## 🚀 Featured Projects
-
-### 💊 AI-Based Medicine Information & Recommendation System
-An ML-based project designed to provide medicine information, recommendations, classification and price predictions.
-
-**Tech:** Python | Machine Learning | Pandas | Scikit-learn
-
-### 🏥 MedAccess
-An Android application project with a Django and Python backend, focused on healthcare access.
-
-**Tech:** Flutter | Dart | Django | Python
-
-### 📝 Online Test System
-A Django-based online examination platform with user authentication, tests, questions and results.
-
-**Tech:** Python | Django | SQLite | HTML | CSS
-
-### ✅ TaskFlow
-A simple and interactive to-do web application to organize and manage everyday tasks.
-
-**Tech:** HTML | CSS | JavaScript
-
-[View TaskFlow Repository](https://github.com/Laveezah-Shakir/TaskFlow)
-
-### 🗺️ Google Maps Route Optimization
-An algorithm-based project exploring optimized route finding using the A* search algorithm.
-
-**Tech:** Python | Data Structures & Algorithms | A* Search
-
-### 📊 Student Performance Predictor
-A machine learning project that predicts student performance using academic and lifestyle-related inputs.
-
-**Tech:** Python | Machine Learning | Data Analysis
-
-*More projects and source code will be added as development progresses.*
-
----
-
 ## 📈 GitHub Statistics
 
 <p align="center">
