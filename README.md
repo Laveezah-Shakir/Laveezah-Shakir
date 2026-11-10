@@ -67,22 +67,23 @@ I'm a B.Tech Computer Science student specializing in **Artificial Intelligence 
 
 ---
 
-## 📈 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Laveezah-Shakir&show_icons=true&theme=tokyonight&hide_border=true&title_color=C084FC&icon_color=C084FC&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laveezah-Shakir&layout=compact&theme=tokyonight&hide_border=true&title_color=C084FC&bg_color=0D1117" />
+  <img width="49%"
+    src="https://github-readme-stats-topaz-chi.vercel.app/api?username=Laveezah-Shakir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=C9D1D9"
+    alt="GitHub Statistics" />
+
+  <img width="49%"
+    src="https://github-readme-stats-topaz-chi.vercel.app/api/top-langs/?username=Laveezah-Shakir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=C9D1D9"
+    alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=Laveezah-Shakir&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=C084FC&currStreakLabel=C084FC" />
+  <img width="95%"
+    src="https://streak-stats.demolab.com?user=Laveezah-Shakir&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=C084FC&currStreakLabel=C084FC"
+    alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Laveezah-Shakir&bg_color=0D1117&color=C084FC&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
 
 ## 🏆 Achievements & Activities
 
