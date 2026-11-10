@@ -69,15 +69,7 @@ I'm a B.Tech Computer Science student specializing in **Artificial Intelligence 
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="center">
-  <img width="49%"
-    src="https://github-readme-stats-topaz-chi.vercel.app/api?username=Laveezah-Shakir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=C9D1D9"
-    alt="GitHub Statistics" />
 
-  <img width="49%"
-    src="https://github-readme-stats-topaz-chi.vercel.app/api/top-langs/?username=Laveezah-Shakir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=C9D1D9"
-    alt="Top Languages" />
-</p>
 
 <p align="center">
   <img width="95%"
